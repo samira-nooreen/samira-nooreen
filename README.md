@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- 🌱 I’m currently learning **Python**, **Node.js**, and exploring **AI/ML**
+- 🌱 I’m currently learning **Python**, **Springboot**, and exploring **DSA**
 - 💬 Ask me about **Python**, **Java**, **MySQL**, and **Web Development**
 - ⚡ Fun fact: I love blending creativity with logic – that's why I code!
 
