@@ -37,16 +37,7 @@ Hello, I'm Samira! 👋<br><br>I'm a<br>Software Developer & Technical Artist<br
   </a>
 </p>
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samira-nooreen&show_icons=true&theme=dracula&include_all_commits=true&hide_border=false" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samira-nooreen&layout=compact&theme=dracula&hide_border=false" height="160" />
-</p>
-
----
 
 ### 🔥 GitHub Streak & Activity
 
