@@ -50,4 +50,8 @@ Hello, I'm Samira! 👋<br><br>I'm a<br>Software Developer & Technical Artist<br
 ---
 
 
+### 🐍 Watch My Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samira-nooreen/samira-nooreen/output/snake.svg" alt="Contribution Snake Animation" />
+</p>
