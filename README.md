@@ -50,8 +50,16 @@ Hello, I'm Samira! 👋<br><br>I'm a<br>Software Developer & Technical Artist<br
 ---
 
 
-### 🐍 Watch My Contribution Snake
+### 🐍 Contribution Activity Visualization
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/samira-nooreen/samira-nooreen/output/snake.svg" alt="Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/samira-nooreen/samira-nooreen/output/snake.svg" alt="Contribution Snake Animation" width="100%" />
 </p>
+
+<details>
+<summary>📊 View contribution insights</summary>
+<br>
+<p align="center">
+  This dynamic visualization represents my coding journey over time. Each movement in the snake shows commits, issues, and pull requests across repositories.
+</p>
+</details>
