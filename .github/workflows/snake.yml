@@ -1,4 +1,3 @@
-
 name: Generate snake animation
 
 on:
@@ -23,8 +22,9 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-dark
-
+          outputs: |
+            dist/snake.svg?palette=github-dark
+            dist/snake.gif?palette=github-dark&color_snake=#4ade80&color_dots=#ef4444,#f97316,#eab308,#84cc16,#22c55e
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
