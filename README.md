@@ -1,40 +1,40 @@
+# 💫 About Me
 
-# 💫 About Me Hello, I'm Samira! 👋 I'm a **Software Developer & Technical Artist** and a Computer Science Engineering student graduating in 2026. I specialize in **fraud detection, ML models, secure web applications, and technical art pipelines**, blending creative and technical workflows. I have built: - AI/ML pipelines for fraud detection, prediction & analytics 🤖 - Full-stack applications (Python, Flask, Java, React) 💻 - 3D assets, stylized props, and Maya Python tools 🎨 - JavaFX desktop systems (HMS, Online Exam, Library) 🏢 - Secure architectures & optimized workflows 🔒 🔗 **Check out my portfolio:** [Portfolio](https://samira-nooreen.github.io/Assignment/) --- ## 🚀 My Work **Ryze Website Redesign 🌐** [View Live Site](https://ryze-website-redesign-project.vercel.app/) **Travel Booking App 🏨** 🌍 Explore destinations | 🛏️ Browse hotels | ✨ Smooth booking flow [View Live Site](https://travel-booking-app--samiranooreen02.replit.app) ** 📽️ Project: BookYourShow – Online Movie Ticket Booking ** Next-gen cinema ticketing platform for a seamless movie-going expe rience. ### 🔗 Experience the App [**View Live Demo**](https://3000-b8ca3b91-00da-4b4c-8cd7-956713d23696.orchids.cloud/) FIX THIS
+Hello, I'm Samira! 👋
 
-Show more
-1:54 AM
-I'll help you fix and improve your About Me section. Let me create a cleaned-up version with better formatting and fixes.
+I'm a **Software Developer & Technical Artist** and a Computer Science Engineering student graduating in 2026. I specialize in **fraud detection, ML models, secure web applications, and technical art pipelines**, blending creative and technical workflows.
 
+## What I've Built
 
-Creating an improved and fixed version of Samira's About Me section
-ABOUT_ME_FIXED.md
+- AI/ML pipelines for fraud detection, prediction & analytics 🤖
+- Full-stack applications (Python, Flask, Java, React) 💻
+- 3D assets, stylized props, and Maya Python tools 🎨
+- JavaFX desktop systems (HMS, Online Exam, Library) 🏢
+- Secure architectures & optimized workflows 🔒
 
-Presented file
-I've fixed your About Me section! Here are the main improvements:
+🔗 **Check out my portfolio:** [Portfolio](https://samira-nooreen.github.io/Assignment/)
 
-Key Changes:
+---
 
-✅ Fixed spacing issues (removed extra space in "expe rience")
-✅ Improved formatting consistency across all projects
-✅ Changed "I have built:" to "What I've Built" as a proper heading
-✅ Made project descriptions more concise and scannable
-✅ Added consistent structure to all project entries
-✅ Added a "Let's Connect" section at the end
-✅ Better use of horizontal rules for visual separation
-The cleaned-up version maintains your personality and style while making it more professional and easier to read!
+## 🚀 My Work
 
-About me fixed
-Document · MD 
+### Ryze Website Redesign 🌐
 
+[View Live Site](https://ryze-website-redesign-project.vercel.app/)
 
+### Travel Booking App 🏨
 
+🌍 Explore destinations | 🛏️ Browse hotels | ✨ Smooth booking flow
 
+[View Live Site](https://travel-booking-app--samiranooreen02.replit.app)
 
-Claude is AI and can make mistakes. Please double-check responses.
+### 📽️ Project: BookYourShow – Online Movie Ticket Booking
 
+Next-gen cinema ticketing platform for a seamless movie-going experience.
 
-About me fixed · MD
-Copy
+#### 🔗 Experience the App
+
+[**View Live Demo**](https://3000-b8ca3b91-00da-4b4c-8cd7-956713d23696.orchids.cloud/)
 
 # 💫 About Me
 
