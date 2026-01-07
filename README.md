@@ -13,12 +13,7 @@ I'm a **Software Developer & Technical Artist** and a Computer Science Engineeri
 - JavaFX desktop systems (HMS, Online Exam, Library) 🏢
 - Secure architectures & optimized workflows 🔒
 
-<details>
-<summary>🔗 <strong>Check out my portfolio</strong></summary>
-
-[View Live Site](https://samira-nooreen.github.io/Assignment/)
-
-</details>
+🔗 **Check out my portfolio:** [View Live Site](https://samira-nooreen.github.io/Assignment/)
 
 
 ---
