@@ -1,11 +1,30 @@
-# 💫 About Me:
-Hello, I'm Samira! 👋<br><br>I'm a<br>Software Developer & Technical Artist<br>Passionate Computer Science Engineering student specializing in fraud detection, ML models, secure web applications, and technical art pipelines. I love creating intelligent software, game-ready 3D assets, and tools that bridge art + engineering.<br><br><br>I'm a Computer Science Engineering student about to graduate in 2026 with a unique combination of Software Engineering, Machine Learning, and Technical Art skills.<br><br>I have built:<br><br>AI/ML pipelines for fraud detection, prediction & analytics<br>Full-stack applications using Python, Flask, Java, React<br>3D assets, stylized props, and Maya Python tools<br>JavaFX desktop systems (HMS, Online Exam, Library)<br>Secure architectures & optimized workflows<br>My work blends strong programming foundations with creative technical workflows, letting me operate confidently across software, AI, and game art pipelines.
+# 💫 About Me
+
+Hello, I'm Samira! 👋  
+
+I'm a **Software Developer & Technical Artist** and a Computer Science Engineering student graduating in 2026. I specialize in **fraud detection, ML models, secure web applications, and technical art pipelines**, blending creative and technical workflows.  
+
+I have built:  
+- AI/ML pipelines for fraud detection, prediction & analytics 🤖  
+- Full-stack applications (Python, Flask, Java, React) 💻  
+- 3D assets, stylized props, and Maya Python tools 🎨  
+- JavaFX desktop systems (HMS, Online Exam, Library) 🏢  
+- Secure architectures & optimized workflows 🔒  
 
 🔗 **Check out my portfolio:**  
-https://samira-nooreen.github.io/Assignment/
+[Portfolio](https://samira-nooreen.github.io/Assignment/)
 
-👇 **Ryze Website Redesign**  
-[View Live Site ](https://ryze-website-redesign-project.vercel.app/)
+---
+
+## 🚀 My Work
+
+**Ryze Website Redesign 🌐**  
+[View Live Site](https://ryze-website-redesign-project.vercel.app/)  
+
+**Travel Booking App 🏨**  
+🌍 Explore destinations | 🛏️ Browse hotels | ✨ Smooth booking flow  
+[View Live Site](https://travel-booking-app--samiranooreen02.replit.app)
+
 
 
 
