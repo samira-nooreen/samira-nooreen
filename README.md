@@ -25,10 +25,8 @@ I have built:
 🌍 Explore destinations | 🛏️ Browse hotels | ✨ Smooth booking flow  
 [View Live Site](https://travel-booking-app--samiranooreen02.replit.app)
 
-## 📽️ Project: BookYourShow – Online Movie Ticket Booking
-
-BookYourShow is a high-performance cinema ticketing platform designed to streamline the movie-going experience through an intuitive, data-driven interface.
-
+** 📽️ Project: BookYourShow – Online Movie Ticket Booking **
+Next-gen cinema ticketing platform for a seamless movie-going experience.
 ### 🔗 Experience the App
 [**View Live Demo**](https://3000-b8ca3b91-00da-4b4c-8cd7-956713d23696.orchids.cloud/)
 
