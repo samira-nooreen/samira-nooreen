@@ -4,7 +4,7 @@ Hello, I'm Samira! 👋<br><br>I'm a<br>Software Developer & Technical Artist<br
 🔗 **Check out my portfolio:**  
 https://samira-nooreen.github.io/Assignment/
 
-**Ryze Website Redesign 👇**  
+👇 **Ryze Website Redesign**  
 [View Live Site ](https://ryze-website-redesign-project.vercel.app/)
 
 
