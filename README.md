@@ -32,6 +32,11 @@ Modern, responsive redesign with enhanced UX and visual appeal.
 Next-gen cinema ticketing platform for a seamless movie-going experience.  
 [View Live Demo](https://3000-b8ca3b91-00da-4b4c-8cd7-956713d23696.orchids.cloud/)
 
+
+🚌 RedBus – Online Bus Ticket Booking
+Smart and scalable bus ticket booking platform built with modern web tech.
+🚀 Live Demo: [Available on request 🔒](https://3000-ff20baf5-5e68-4c38-ab1a-182c14487237.orchids.cloud/)
+
 ---
 
 
