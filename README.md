@@ -20,22 +20,22 @@ I'm a **Software Developer & Technical Artist** and a Computer Science Engineeri
 
 ## 🚀 Featured Projects
 
-### 🌐 Ryze Website Redesign 
+### 🌐 Ryze Website Redesign  
 Modern, responsive redesign with enhanced UX and visual appeal.  
 [View Live Site](https://ryze-website-redesign-project.vercel.app/)
 
-### 🏨 Travel Booking App 
+### 🏨 Travel Booking App  
 🌍 Explore destinations | 🛏️ Browse hotels | ✨ Smooth booking flow  
 [View Live Site](https://travel-booking-app--samiranooreen02.replit.app)
 
-### 📽️ BookYourShow – Online Movie Ticket Booking 
-Next-gen cinema ticketing platform for a seamless movie-going experience. 
-[View Live Demo](https://3000-b8ca3b91-00da-4b4c-8cd7-956713d23696.orchids.cloud/)
+### 📽️ BookYourShow – Online Movie Ticket Booking  
+Next-gen cinema ticketing platform for a seamless movie-going experience.  
+🚀 Live Demo: Available on request 🔒  
 
+### 🚌 RedBus – Online Bus Ticket Booking  
+Smart and scalable bus ticket booking platform built with modern web tech.  
+🚀 Live Demo: Available on request 🔒  
 
-### 🚌 RedBus – Online Bus Ticket Booking
-Smart and scalable bus ticket booking platform built with modern web tech.
-[🚀 View Live Demo](https://3000-ff20baf5-5e68-4c38-ab1a-182c14487237.orchids.cloud/)
 
 ---
 
