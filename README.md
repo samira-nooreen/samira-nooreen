@@ -30,6 +30,7 @@ Modern, responsive redesign with enhanced UX and visual appeal.
 
 ### 📽️ BookYourShow – Online Movie Ticket Booking  
 Next-gen cinema ticketing platform for a seamless movie-going experience. 
+
 [View Live Site](https://bookmyshow-clone-kfot.onrender.com)
 
 
