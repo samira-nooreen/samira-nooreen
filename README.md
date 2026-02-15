@@ -13,7 +13,7 @@ I'm a **Software Developer & Technical Artist** and a Computer Science Engineeri
 - JavaFX desktop systems (HMS, Online Exam, Library) 🏢
 - Secure architectures & optimized workflows 🔒
 
-🔗 **Check out my portfolio:** [View Live Site](https://samira-nooreen.github.io/Assignment/)
+🔗 **Check out my portfolio:** [View Live Site 😀](https://samira-nooreen.github.io/Assignment/)
 
 
 ---
@@ -22,24 +22,24 @@ I'm a **Software Developer & Technical Artist** and a Computer Science Engineeri
 
 ### 🌐 Ryze Website Redesign  
 Modern, responsive redesign with enhanced UX and visual appeal.  
-[View Live Site](https://ryze-website-redesign-project.vercel.app/)
+[🔗 View Live Site](https://ryze-website-redesign-project.vercel.app/)
 
 ### 🏨 Travel Booking App  
 🌍 Explore destinations | 🛏️ Browse hotels | ✨ Smooth booking flow  
-[View Live Site](https://travel-booking-app--samiranooreen02.replit.app)
+[🔗 View Live Site](https://travel-booking-app--samiranooreen02.replit.app)
 
 ### 📽️ BookYourShow – Online Movie Ticket Booking  
 Next-gen cinema ticketing platform for a seamless movie-going experience. 
 
-[View Live Site](https://bookmyshow-clone-kfot.onrender.com)
+[🔗 View Live Site](https://bookmyshow-clone-kfot.onrender.com)
 
 
 ### 🚌 RedBus – Online Bus Ticket Booking  
 Smart and scalable bus ticket booking platform built with modern web tech.  
-[View Live Site](https://redbus-india-clone-j0rs.onrender.com/)
+[🔗 View Live Site](https://redbus-india-clone-j0rs.onrender.com/)
 
 ### 📝 TaskFlow - Scalable Task Management Application  
-[Click To See Demo](https://task-manager-nextjs.onrender.com)
+[🔗 Click To See Demo](https://task-manager-nextjs.onrender.com)
 
 ---
 
