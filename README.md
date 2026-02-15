@@ -20,6 +20,10 @@ I'm a **Software Developer & Technical Artist** and a Computer Science Engineeri
 
 ## 🚀 Featured Projects
 
+### 🌟 Real-Time Anomaly Detection System  
+Real-time anomaly detection with ML models, Kafka streaming, and a monitoring dashboard.  
+[🔗 Live Demo](https://real-time-anomaly-detection.onrender.com)
+
 ### 🌐 Ryze Website Redesign  
 Modern, responsive redesign with enhanced UX and visual appeal.  
 [🔗 View Live Site](https://ryze-website-redesign-project.vercel.app/)
