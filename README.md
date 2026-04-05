@@ -24,6 +24,11 @@ I'm a **Software Developer & Technical Artist** and a Computer Science Engineeri
 Real-time anomaly detection with ML models, Kafka streaming, and a monitoring dashboard.  
 [🔗 Live Demo](https://real-time-anomaly-detection.onrender.com)
 
+### 🛒 Quick Commerce Price Comparison App
+Compare prices across Blinkit, Zepto, Swiggy Instamart, and BigBasket with smart UI and direct redirection to platforms.
+[🔗 Live Demo](https://boisterous-quick-cart-compare.base44.app)
+
+
 ### 🌐 Ryze Website Redesign  
 Modern, responsive redesign with enhanced UX and visual appeal.  
 [🔗 View Live Site](https://ryze-website-redesign-project.vercel.app/)
