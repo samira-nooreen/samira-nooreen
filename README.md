@@ -102,7 +102,7 @@ Git • AWS • Oracle Cloud • JavaFX • Firebase • Vercel • Render
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/samira-nooreen/samira-nooreen/output/snake-dark.svg" width="100%"/>
+ <img src="https://raw.githubusercontent.com/samira-nooreen/samira-nooreen/output/snake.svg" />
 </p>
 
 ---
