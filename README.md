@@ -14,33 +14,49 @@ Hi, I'm Samira 👋
 🔐 Focus: Fraud Detection | ML Systems | Secure Web Applications  
 🎨 Also building technical art pipelines & 3D tools  
 
-🔗 **Portfolio:** https://samira-nooreen.github.io/Assignment/
+<p align="left">
+  <a href="https://samira-nooreen.github.io/Assignment/">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🛡️ Multi-Domain Fraud Detection Platform  
-AI-powered system for detecting fraud across financial transactions, profiles & content  
-🔗 https://multi-domain-fraud-detection-platform-e2f0e9g2hha4axcm.southeastasia-01.azurewebsites.net/
+AI-powered system for detecting fraud across multiple domains  
+
+<a href="https://multi-domain-fraud-detection-platform-e2f0e9g2hha4axcm.southeastasia-01.azurewebsites.net/">
+  <img src="https://img.shields.io/badge/View%20Live-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
 ---
 
 ### ⚡ Real-Time Anomaly Detection System  
-Streaming-based anomaly detection with ML models and monitoring dashboard  
-🔗 https://real-time-anomaly-detection.onrender.com  
+Streaming-based anomaly detection with ML + dashboard  
+
+<a href="https://real-time-anomaly-detection.onrender.com">
+  <img src="https://img.shields.io/badge/View%20Live-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
 ---
 
 ### 🛒 Quick Commerce Price Comparison  
-Compare prices across Blinkit, Zepto, Instamart & BigBasket with smart UI  
-🔗 https://boisterous-quick-cart-compare.base44.app  
+Compare Blinkit, Zepto, Instamart & BigBasket  
+
+<a href="https://boisterous-quick-cart-compare.base44.app">
+  <img src="https://img.shields.io/badge/View%20Live-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
 ---
 
 ### 🌐 Ryze Website Redesign  
-Modern responsive redesign with enhanced UI/UX  
-🔗 https://ryze-website-redesign-project.vercel.app/  
+Modern responsive redesign with enhanced UX  
+
+<a href="https://ryze-website-redesign-project.vercel.app/">
+  <img src="https://img.shields.io/badge/View%20Live-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
 ---
 
@@ -110,7 +126,7 @@ Git • AWS • Oracle Cloud • JavaFX • Firebase • Vercel • Render
 - ⚡ Developed full-stack scalable applications  
 - ☁️ Hands-on with cloud (GCP, OCI, Firebase, Vercel, Render)  
 - 🔐 Focused on secure and production-ready systems  
-- 📈 Strong consistency in problem-solving (DSA & real-world systems)  
+- 📈 Strong consistency in problem-solving  
 
 ---
 
