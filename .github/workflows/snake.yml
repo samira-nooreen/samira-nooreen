@@ -1,8 +1,6 @@
 name: snake
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -21,9 +19,9 @@ jobs:
           github_user_name: samira-nooreen
           outputs: dist/snake.svg
 
-      - name: push to output branch
+      - name: push
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
           publish_dir: ./dist
+          publish_branch: output
