@@ -20,6 +20,10 @@ I'm a **Software Developer & Technical Artist** and a Computer Science Engineeri
 
 ## 🚀 Featured Projects
 
+### 🛡️ Multi-Domain Fraud Detection Platform (MDFDP)
+A unified AI-powered platform detecting fraud, abuse, and risk across financial transactions, social profiles, content, and more — built with Flask, ML models, and real-time analytics.  
+[🔗 Live Demo](https://multi-domain-fraud-detection-platform-e2f0e9g2hha4axcm.southeastasia-01.azurewebsites.net/)
+
 ### 🌟 Real-Time Anomaly Detection System  
 Real-time anomaly detection with ML models, Kafka streaming, and a monitoring dashboard.  
 [🔗 Live Demo](https://real-time-anomaly-detection.onrender.com)
