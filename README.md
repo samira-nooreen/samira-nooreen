@@ -8,7 +8,7 @@
 # 💫 About Me
 
 Hi, I'm Samira 👋  
-**Full-Stack Software Developer & Technical Artist** blending **AI, Secure Systems, and Creative Tech**
+**Full-Stack Software Developer & Cloud Engineer** blending **AI, Secure Systems, and Creative Tech**
 
 🎓 CSE Graduate (2026)  
 🔐 Focus: Fraud Detection | ML Systems | Secure Web Applications  
