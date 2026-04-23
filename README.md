@@ -1,3 +1,10 @@
+<!-- 🔥 Typing Animation Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Samira+Nooreen+👋;Full-Stack+Developer+%7C+ML+Engineer;Building+AI+%2B+Secure+Systems;Turning+Ideas+into+Real+World+Applications" />
+</p>
+
+---
+
 # 💫 About Me
 
 Hi, I'm Samira 👋  
@@ -79,7 +86,7 @@ Git • AWS • Oracle Cloud • JavaFX • Firebase • Vercel • Render
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/samira-nooreen/samira-nooreen/output/snake.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/samira-nooreen/samira-nooreen/output/snake-dark.svg" width="100%"/>
 </p>
 
 ---
@@ -103,7 +110,7 @@ Git • AWS • Oracle Cloud • JavaFX • Firebase • Vercel • Render
 - ⚡ Developed full-stack scalable applications  
 - ☁️ Hands-on with cloud (GCP, OCI, Firebase, Vercel, Render)  
 - 🔐 Focused on secure and production-ready systems  
-- 📈 Consistent problem-solving (DSA, real-world systems)  
+- 📈 Strong consistency in problem-solving (DSA & real-world systems)  
 
 ---
 
